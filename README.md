@@ -2,7 +2,7 @@
 - 👀 I’m interested in Technologies that help generations
 - 🌱 I’m currently learning and collaborating in C, C++ and python related development tasks
 - 💞️ I’m looking to collaborate on ...
-- I am curios about CyberSecurity
+- I am curios about Embedded Systems
 - 📫 How to reach me ...
 
 <!---
